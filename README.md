@@ -1,2 +1,4 @@
 # Undergrad_Thesis
- Unsupervised Word Segmentation Using Transitional Probability
+ Unsupervised Word Segmentation Using Transitional Probability<br/>
+ Word Segmentation is the process of segmenting words into prefixes, root and suffix that is helpful in the speech signal. It is the process of finding out the smallest meaning bearing elements of natural languages. This paper describes segmenting words in an unsupervised approach by finding words that appear as a substring of other words using trie data structure along with transitional probability. The research method used in this paper is the unsupervised approach because it results with little extra manual effort. The two approaches that work together in finding out the morphemes will be described. First one is finding morphemes that appear as a substring of another string and calculating Transitional Probability. This algorithm gives us a good result as it is simple. It is evaluated on a set of 1575 human segmented Bangla words, the 432-line python program achieved an accuracy of 80.95%.
+
